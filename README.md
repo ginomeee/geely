@@ -35,7 +35,7 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 
 #### Definition of terms
 | Word | Definition |
-|----|------------|
+| ---- | ---------- |
 | HU | Head Unit: A central control interface or device installed in a vehicle that provides audio and video playback, navigation, and other entertainment features, typically located in the dashboard |
 | AA | Android Auto: Software that enables seamless integration of Android smartphones with car HU, allowing users to access and control various smartphone functions and apps through the vehicle's display. |
 | GKUI | A custom Android skin / launcher developed by Geely that integrates the head unit with the vehicle features as well as with a custom user-friendly UI that's suitable for driving |
