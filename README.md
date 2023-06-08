@@ -39,6 +39,7 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 | Paragraph   | Text        |
 
 #### Definition of terms
+
 | Word | Definition |
 | ---- | ---------- |
 | HU | Head Unit: A central control interface or device installed in a vehicle that provides audio and video playback, navigation, and other entertainment features, typically located in the dashboard |
@@ -47,6 +48,7 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 | GCR   | Geely Coolray: A compact crossover SUV. Developed by Geely and Volvo, it houses a 3-cylinder turbocharged 177hp engine mated to a 7-speed Dual Clutch transmission on a front-wheel drive configuration  |
 | Carlinkit   | A company that makes Carplay dongles that allow wireless integration of Apple CarPlay in vehicles that do not come with built-in CarPlay support. The dongle connects to the car's head unit and enables wireless connectivity between the iPhone and the car's infotainment system. Can be purchased online for around Php 5000 |
 | APK   | APK stands for Android Package Kit, and it is the file format used by the Android operating system to distribute and install applications. |
+
 ---
 
 ## Table of Contents
