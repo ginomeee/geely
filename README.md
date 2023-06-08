@@ -11,16 +11,17 @@ This guide is a fork of the **[GCR Basic HU Installation Guide](archive/)** init
 
 The installation script packaged along this was originally derived from Russian development [forums](https://4pda.to/forum/index.php?showtopic=1001500&st=600#entry107246765) and [Telegram groups](https://t.me/CoolRay_Android_Develop/60768) with the same vehicle model, then modified by Filipino developers to work on the local variant.
 
-####Test Unit
+#### Test Unit
 This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in May 2023 running **Android 4.3 Jelly Bean**.
 Confirmed working Android Auto client devices (wired and wireless) were tested with a Galaxy S23 running Android 13 and Galaxy S10 running Android 12.
 
 #### Definition of terms
-| Acronym | Word |
+| Word | Definition |
 |----|------------|
 | HU | Head Unit: A central control interface or device installed in a vehicle that provides audio and video playback, navigation, and other entertainment features, typically located in the dashboard |
 | AA | Android Auto: Software that enables seamless integration of Android smartphones with car HU, allowing users to access and control various smartphone functions and apps through the vehicle's display. |
 | GKUI | A custom Android skin / launcher developed by Geely that integrates the head unit with the vehicle features as well as with a custom user-friendly UI that's suitable for driving |
+| GCR   | Geely Coolray: A compact crossover SUV. Co-developed by Volvo, it houses a 3-cylinder turbocharged 177hp engine mated to a 7-speed Dual Clutch transmission on a front-wheel drive configuration  |
 | Carlinkit   | A company that makes Carplay dongles that allow wireless integration of Apple CarPlay in vehicles that do not come with built-in CarPlay support. The dongle connects to the car's head unit and enables wireless connectivity between the iPhone and the car's infotainment system. Can be purchased online for around Php 5000 |
 
 ---
