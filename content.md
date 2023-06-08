@@ -1,3 +1,9 @@
+---
+layout: page
+title: App Descriptions
+permalink: /appdesc/
+---
+
 ## App Descriptions
 
 | App Name             | Description                                |
