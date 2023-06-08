@@ -33,6 +33,11 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 
 ---
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 #### Definition of terms
 | Word | Definition |
 | ---- | ---------- |
