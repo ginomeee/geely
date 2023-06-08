@@ -177,4 +177,6 @@ Not personally tested, wala akong Carlinkit. Although others from the GCR group 
 
 [ ] Android Screen mirroring guide with Screen2Auto / alternative
 
+[ ] Mention the use of Wi-Fi Launcher
+
 Feel free to suggest other parts of the guide by sending me a message.
