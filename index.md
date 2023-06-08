@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+## View the [full guide here](/guide)
