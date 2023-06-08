@@ -14,9 +14,11 @@
 ---
 
 ###### Attributions:
-This guide is a fork of the **[GCR Basic HU Installation Guide](archive/)** initially [posted on the Facebook group Geely Coolray Owners Club PH](https://www.facebook.com/groups/413459579568531/posts/1319384782309335/) updated with the newer version of specific apps and with a more comprehensive overall guide.
+This guide is a fork of the **[GCR Basic HU Installation Guide](archive/)** initially [posted on the Facebook group: "Geely Coolray Owners Club PH"](https://www.facebook.com/groups/413459579568531/posts/1319384782309335/) updated with the newer version of specific apps and with a more comprehensive overall guide.
 
 The installation script packaged along this was originally derived from Russian development [forums](https://4pda.to/forum/index.php?showtopic=1001500&st=600#entry107246765) and [Telegram groups](https://t.me/CoolRay_Android_Develop/60768) with the same vehicle model, then modified by Filipino developers to work on the local variant.
+
+If you want to learn more about modding in general, feel free to check the Telegram groups (be ready with the endless use of Google Translate), but be vigilant of the files you download / install.
 
 I personally did not work on any of the files / scripts / apks posted, credit to the owners and authors of the file. This merely serves as a guide and is a fork of the pre-existing guides. Will be updating this over time.
 
@@ -61,7 +63,7 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 ## 1. Included Apps
 | Application                 | Brief Description                                                                                                                    |
 |-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Android Auto (Head Unit Reloaded / HUR v7.0.4)  | Android Auto allows for an interface between your Android phone and the car's head unit, providing seamless access to apps and features of the phone on the head unit itself. This guide will be using Head Unit Reloaded, an app that emulates an Android Head Unit server that works on older versions of Android head units. Support the developers by [purchasing the official version at the Google Play store](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en&gl=US) |
+| Android Auto (Head Unit Reloaded / HUR v7.0.4)  | Android Auto allows for an interface between your Android phone and the car's head unit, providing seamless access to apps and features of the phone on the head unit itself. This guide will be using Head Unit Reloaded, an app that emulates an Android Head Unit server that works on older versions of Android head units. Support the developers by [purchasing the official version at the Google Play store](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en&gl=US). |
 | Autokit CarPlay Store       | Autokit enables the integration of iPhone CarPlay interface with the car's head unit, allowing seamless access to iPhone apps and functions.  |
 | Back Button Anywhere        | Back Button Anywhere creates a shortcut to the back button on the car's head unit, providing easy access to Android settings while driving.|
 | ES File Explorer            | ES File Explorer is a file system navigation app that allows access to files stored on USB drives, facilitating file management on the head unit.|
@@ -137,7 +139,7 @@ This should be fairly straightforward, you don't need to change any settings sin
 
 **Important:** Make sure to use a known good / reliable USB cable. Disconnections are likely even with known good USB cables as they have the tendency to fail from time to time. USB cable failure may happen due to extreme conditions inside vehicle (change of temperature, humidity, bending, vibration, etc).
 
-**Troubleshooting:** In the event HUR app keeps crashes repeatedly, try to fiddle around with the cable, try inserting it in the opposite direction if type-c. If it does not work, use a different USB port or cable. If possible connect via Android Auto Wirelessly.
+**Troubleshooting:** In the event HUR app keeps crashing repeatedly, try to fiddle around with the cable, try inserting it in the opposite direction if type-c. If it does not work, use a different USB port or cable. If possible connect via Android Auto Wirelessly.
 
 ## 9. Setting up Autokit for carplay
 Not personally tested, wala akong Carlinkit. Although others from the GCR group claim this works flawlessly.
@@ -166,9 +168,13 @@ Not personally tested, wala akong Carlinkit. Although others from the GCR group 
 ---
 ## TBA / WIP:
 [ ] Complete download links
+
 [ ] Add images
+
 [ ] Guide for Android Auto third-party apps through AAstore
+
 [ ] Guide to installing CarTube
+
 [ ] Android Screen mirroring guide with Screen2Auto / alternative
 
 Feel free to suggest other parts of the guide by sending me a message.
