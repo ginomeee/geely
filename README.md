@@ -4,7 +4,7 @@
 
 ---
 
-**A straightforward guide for installing Android apps and Android Auto on the Geely Coolray Philippine variant and other vehicles running GKUI on Android 4.3.** Admittedly biased towards Android Auto support since I personally don't have Carlinkit and primarily use an Android device.
+**A straightforward guide for installing Android apps and Android Auto on the Geely Coolray Philippine variant and other Geely vehicles running GKUI on Android 4.3.** Admittedly biased towards Android Auto support since I personally don't have Carlinkit and primarily use an Android device.
 
 **This is not a guide to root the device**, but merely a way to sideload apps as you would any Android tablet. My first impression of the GCR when I tried fiddling around with the settings and first sideloaded apps was that the entire car was a glorified Android tablet from 2013 on wheels. The more you know.
 
@@ -27,16 +27,11 @@ I personally did not work on any of the files / scripts / apks posted, credit to
 #### Test Unit
 This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in May 2023 running **Android 4.3 Jelly Bean**.
 
-**AA Support**: Confirmed working Android Auto client devices (wired and wireless)
+**AA Support**: Confirmed working Android Auto client devices (wired and wireless via other wifi network)
   - Samsung Galaxy S23 running Android 13
   - Galaxy S10e running Android 12
 
 ---
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 #### Definition of terms
 
@@ -68,8 +63,9 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 ---
 
 ## 1. Included Apps
-| Application                 | Brief Description                                                                                                                    |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| Application | Brief Description |
+| ----------- | ----------------- |
 | Android Auto (Head Unit Reloaded / HUR v7.0.4)  | Android Auto allows for an interface between your Android phone and the car's head unit, providing seamless access to apps and features of the phone on the head unit itself. This guide will be using Head Unit Reloaded, an app that emulates an Android Head Unit server that works on older versions of Android head units. Support the developers by [purchasing the official version at the Google Play store](https://play.google.com/store/apps/details?id=gb.xxy.hr&hl=en&gl=US). |
 | Autokit CarPlay Store       | Autokit enables the integration of iPhone CarPlay interface with the car's head unit, allowing seamless access to iPhone apps and functions.  |
 | Back Button Anywhere        | Back Button Anywhere creates a shortcut to the back button on the car's head unit, providing easy access to Android settings while driving.|
@@ -97,8 +93,9 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 
 ## 4. Setting up Android Auto on Android Phone
 These are to be installed on your phone / the phone that will be mainly connecting to the head unit.
-| Application           | Brief Description                                                                                           |
-|-----------------------|------------------------------------------------------------------------------------------------------------|
+
+| Application | Brief Description |
+| ----------- | ----------------- |
 | AAforPhoneScreen      | AAforPhoneScreen creates an icon on your Android phone for easy access to the Android Auto app settings.   |
 | AAstore               | AAstore allows you to download and install third-party Android Auto apps, expanding the app options available.|
 
@@ -141,8 +138,9 @@ This is needed for you to be able to **access the built-in Android settings on t
 ## 8. Setting up Android Auto on HU
 This should be fairly straightforward, you don't need to change any settings since the default settings are already good.
 1. Open Android Auto (Head Unit Reloaded app) on the HU.
-2. For wired connection, connect the data cable to the Android phone and HU.
-3. For wireless connection, enable hotspot on the Android phone and connect the HU to the phone hotspot via Wifi Manager.
+2. Connecting the phone to the HU:
+   a. For wired connection, connect the data cable to the Android phone and HU.
+   b. For wireless connection, connect both the Android device and the HU to the same wifi network.
 
 **Important:** Make sure to use a known good / reliable USB cable. Disconnections are likely even with known good USB cables as they have the tendency to fail from time to time. USB cable failure may happen due to extreme conditions inside vehicle (change of temperature, humidity, bending, vibration, etc).
 
@@ -161,8 +159,6 @@ Not personally tested, wala akong Carlinkit. Although others from the GCR group 
 2. Open ES File Explorer, access your USB, and install the APK.
 
 **Limitations:** GCR HU only recognizes apps that are compatible with **Android 4.3 Jelly Bean**. If your selected app is too new, it may not support older Android versions and most likely won't work with GCR HU. Try looking up other versions on apkmirror or app archive websites.
-
-
 
 ## 11. Uninstalling Apps Manually
 1. Go to Android Settings > Storage > Apps.
