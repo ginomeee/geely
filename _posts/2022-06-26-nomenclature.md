@@ -1,10 +1,7 @@
 ---
 layout: page
-title: App Descriptions
-permalink: /appdesc/
+title: Nomenclature
 ---
-
-## App Descriptions
 
 | App Name             | Description                                |
 |----------------------|--------------------------------------------|

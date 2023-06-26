@@ -4,8 +4,7 @@
 # between the top bar and the list of recent posts.
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
+# I removed: ## View the [full guide here](/guide)
+
 layout: home
 ---
-
-## View the [full guide here](/guide)

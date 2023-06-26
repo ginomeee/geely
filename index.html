@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+
+  <div class="markdown-content">
+    <!-- Markdown content will be rendered here -->
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    // Read and render the Markdown content
+    fetch('content.md')
+      .then(response => response.text())
+      .then(text => {
+        const markdownContent = document.querySelector('.markdown-content');
+        markdownContent.innerHTML = marked(text);
+      });
+  </script>
+</body>
+</html>
