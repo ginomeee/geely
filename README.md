@@ -1,5 +1,5 @@
-# Geely Coolray || Android Auto and App Installation Guide
-<sub>Last updated May 8, 2023 || Valid for Geely Coolray SE Sport 2023 Philippine Variant
+## Geely Coolray || Android Auto and App Installation Guide
+<sub>Last updated June 26, 2023 || Valid for Geely Coolray SE Sport 2023 Philippine Variant
 </sub>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-###### Attributions:
+#### Attributions:
 This guide is a fork of the **[GCR Basic HU Installation Guide](archive/)** initially [posted on the Facebook group: "Geely Coolray Owners Club PH"](https://www.facebook.com/groups/413459579568531/posts/1319384782309335/) updated with the newer version of specific apps and with a more comprehensive overall guide.
 
 The installation script packaged along this was originally derived from Russian development [forums](https://4pda.to/forum/index.php?showtopic=1001500&st=600#entry107246765) and [Telegram groups](https://t.me/CoolRay_Android_Develop/60768) with the same vehicle model, then modified by Filipino developers to work on the local variant.
@@ -24,7 +24,7 @@ I personally did not work on any of the files / scripts / apks posted, credit to
 
 ---
 
-#### Test Unit
+### Test Unit
 This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in May 2023 running **Android 4.3 Jelly Bean**.
 
 **AA Support**: Confirmed working Android Auto client devices (wired and wireless via other wifi network)
@@ -33,7 +33,7 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 
 ---
 
-#### Definition of terms
+### Definition of terms
 
 | Word | Definition |
 | ---- | ---------- |
@@ -77,6 +77,7 @@ This was tested to be working on a **Geely Coolray SE Sport 2023** purchased in 
 
 
 ## 2. Installation Requirements
+- Installation files: [Mega Link](https://mega.nz/file/xhUU1ARY#BYNzO-YIv7tvJHaK6iakaECBva6WTScHPo3GzLOsjGI)
 - 4-32GB flash drive (FAT32 format)
 - Computer (only needed for downloading files to flash drive)
 - Wifi or Hotspot for Netflix access and/or to be used as a common hotspot for your phone and headunit for Android Auto.
@@ -103,9 +104,9 @@ These are to be installed on your phone / the phone that will be mainly connecti
 2. Open Android Auto on the phone using AAforPhoneScreen.
 3. Customize launcher, enable Hey Google detection, set Day/Night mode if needed.
 4. First setup for Android Auto app on your phone:
-  a. Tap “Version” (bottom) until pop up appears then click OK.
-  b. Click on 3 dots upper-right. You should see Developer Settings and Start Headunit.
-  c. To make AAstore work and if you install 3rd party Android Auto apps, go to Dev Settings and enable Unknown Sources.
+    a.  Tap “Version” (bottom) until pop up appears then click OK.
+    b.  Click on 3 dots upper-right. You should see Developer Settings and Start Headunit.
+    c.  To make AAstore work and if you install 3rd party Android Auto apps, go to Dev Settings and enable Unknown Sources.
 
 
 ## 5. Installing the apps on GCR HU
@@ -139,8 +140,9 @@ This is needed for you to be able to **access the built-in Android settings on t
 This should be fairly straightforward, you don't need to change any settings since the default settings are already good.
 1. Open Android Auto (Head Unit Reloaded app) on the HU.
 2. Connecting the phone to the HU:
-   a. For wired connection, connect the data cable to the Android phone and HU.
-   b. For wireless connection, connect both the Android device and the HU to the same wifi network.
+
+    a.  For wired connection, connect the data cable to the Android phone and HU.
+    b.  For wireless connection, connect both the Android device and the HU to the same wifi network.
 
 **Important:** Make sure to use a known good / reliable USB cable. Disconnections are likely even with known good USB cables as they have the tendency to fail from time to time. USB cable failure may happen due to extreme conditions inside vehicle (change of temperature, humidity, bending, vibration, etc).
 
