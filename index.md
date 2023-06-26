@@ -8,4 +8,4 @@
 
 layout: home
 ---
-[Full Guide](/guide)
+## [View the Full Guide](/guide)
