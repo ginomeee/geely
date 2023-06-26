@@ -4,7 +4,6 @@ author:
   email: hello@gino.media
 title: Geely Upgrade Guide
 description: Geely Coolray head unit upgrade guide for custom APKs and responsive Android Auto
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
